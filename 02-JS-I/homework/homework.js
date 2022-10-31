@@ -4,7 +4,7 @@
 const nuevaString = null;
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = hola;
+const nuevoNum = Hola;
 
 // Crea una variable booleana:
 const nuevoBool = kevin;
